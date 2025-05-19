@@ -1,2 +1,2 @@
-# gai
+# GAI
 Greek Automotive Industry
